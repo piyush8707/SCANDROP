@@ -1,1 +1,14 @@
 
+{
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "google-site-verification",
+          "value": "mJNRU17KESqkmmT8YuvN2g9M2IBNNEpG_PeUO9OpMZk"
+        }
+      ]
+    }
+  ]
+}
